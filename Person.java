@@ -1,9 +1,5 @@
 /*
 File Name: Person.java
-Course: ICS4U1-01
-Teacher Name: Ms. Zeng
-Name: Jing Li & Nicole Zhang
-Date: December 22, 2014
 Description: The following program is the Person class that builds the foundation for the other(Student and Teacher) classes.
 */
 
