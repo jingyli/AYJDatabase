@@ -1,9 +1,5 @@
 /*
 File Name: Student.java
-Course: ICS4U1-01
-Teacher Name: Ms. Zeng
-Name: Jing Li & Nicole Zhang
-Date: December 22, 2014
 Description: The following program creates a Student object and has all student-related functions.
 */
 
