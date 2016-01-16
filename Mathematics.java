@@ -1,9 +1,5 @@
 /*
 File Name: Mathematics.java
-Course: ICS4U1-01
-Teacher Name: Ms. Zeng
-Name: Jing Li & Nicole Zhang
-Date: December 22, 2014
 Description: The following program creates a specific department object and implements some 
              department-related functions.
 */
