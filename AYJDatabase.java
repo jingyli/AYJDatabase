@@ -1,9 +1,5 @@
 /*
 File Name: AYJDatabase.java
-Course: ICS4U1-01
-Teacher Name: Ms. Zeng
-Name: Jing Li & Nicole Zhang
-Date: December 22, 2014
 Description: The following program is the core of the AYJDatabase program.
              It contains all the functions of the program and executes the GUI interface.
 */
