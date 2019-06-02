@@ -1075,7 +1075,7 @@ public class AYJDatabase{
                   
                System.out.println();
                for (int k = 0; k < courseLen; k ++){
-                  System.out.println ("Input the inofrmation for course #" + (k + 1));
+                  System.out.println ("Input the information for course #" + (k + 1));
                   System.out.print ("Enter the course code: ");
                   courseCode = sc.nextLine();
                   System.out.print ("Enter the maximum number of students who can enroll in the course: ");
